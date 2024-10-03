@@ -32,6 +32,7 @@
         "chalk": "4.1.2",
         "cheerio": "1.0.0-rc.12",
         "dotenv": "^16.0.3",
+        "expo-cli": "^6.3.10",
         "fastify": "^4.10.2",
         "fastify-cors": "^6.1.0",
         "ioredis": "^5.2.4",
